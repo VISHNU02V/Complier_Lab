@@ -111,7 +111,7 @@ return k+1;
 return 0;
 }
 }
-
+int iskw(char s[])
 {
 int k;
 for(k=0;k<15;k++)
