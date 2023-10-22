@@ -77,7 +77,7 @@ void check()
 
 		exit(0);
 	}
-	if(flag==0)
+
 	{
 		printf("\n%s\t\t\t%s\t\t reject",stack,ip_sym);
 		exit(0);
