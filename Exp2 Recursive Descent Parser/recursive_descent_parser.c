@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char s[20], *c;
+
 int E();
 int T();
 int Edash();
