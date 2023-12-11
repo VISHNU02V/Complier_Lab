@@ -113,7 +113,7 @@ int F(){
 
 
 int main(){
-	printf("Enter the string :");
+	printf("Enter the string (with terimal value i):");
 	scanf("%s",s);
 	c=s;
 	if( E() && *c == '\0'){
@@ -125,4 +125,3 @@ int main(){
 		printf("\nString Not accepted\n");
 	}
 }
-	
